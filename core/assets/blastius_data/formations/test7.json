@@ -1,0 +1,38 @@
+[
+{
+	"entity": "RECTANGLE",
+	"pattern": "NORMAL",
+	"x": 251,
+	"y": 179
+},
+{
+	"entity": "RECTANGLE",
+	"pattern": "NORMAL",
+	"x": 364,
+	"y": 180
+},
+{
+	"entity": "RECTANGLE",
+	"pattern": "NORMAL",
+	"x": 472.99994,
+	"y": 179
+},
+{
+	"entity": "RECTANGLE",
+	"pattern": "NORMAL",
+	"x": 576.99994,
+	"y": 179
+},
+{
+	"entity": "HEPTAGON",
+	"pattern": "CCW",
+	"x": 300.99994,
+	"y": 315
+},
+{
+	"entity": "HEPTAGON",
+	"pattern": "CW",
+	"x": 522.99994,
+	"y": 317
+}
+]

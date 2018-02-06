@@ -1,0 +1,170 @@
+[
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CCW",
+	"x": 401,
+	"y": 128
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CCW",
+	"x": 425.99994,
+	"y": 160
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CCW",
+	"x": 453,
+	"y": 196
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CCW",
+	"x": 477.99994,
+	"y": 232
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CCW",
+	"x": 504.99994,
+	"y": 264
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CCW",
+	"x": 530.99994,
+	"y": 300
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CW",
+	"x": 476.99994,
+	"y": 233
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CW",
+	"x": 554.99994,
+	"y": 336
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CW",
+	"x": 446.99994,
+	"y": 261
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CW",
+	"x": 414.99994,
+	"y": 293
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CW",
+	"x": 391.99994,
+	"y": 324
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CW",
+	"x": 504.99994,
+	"y": 200
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CW",
+	"x": 534.99994,
+	"y": 167
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "SPIRAL_CW",
+	"x": 563.99994,
+	"y": 131
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "CCW",
+	"x": 318,
+	"y": 234
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "CCW",
+	"x": 288,
+	"y": 267
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "CCW",
+	"x": 252.99994,
+	"y": 307
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "CW",
+	"x": 593.99994,
+	"y": 227
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "CW",
+	"x": 630.9999,
+	"y": 262
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "CW",
+	"x": 668,
+	"y": 302
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "NORMAL",
+	"x": 775.9999,
+	"y": 122
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "NORMAL",
+	"x": 733,
+	"y": 164
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "NORMAL",
+	"x": 774.9999,
+	"y": 206
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "NORMAL",
+	"x": 731.9999,
+	"y": 250
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "NORMAL",
+	"x": 174,
+	"y": 118
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "NORMAL",
+	"x": 123,
+	"y": 176
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "NORMAL",
+	"x": 185,
+	"y": 211
+},
+{
+	"entity": "TRIANGLE",
+	"pattern": "NORMAL",
+	"x": 131,
+	"y": 262
+}
+]

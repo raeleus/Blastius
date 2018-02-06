@@ -1,0 +1,38 @@
+[
+{
+	"entity": "HEPTAGON",
+	"pattern": "NORMAL",
+	"x": 226,
+	"y": 160
+},
+{
+	"entity": "HEPTAGON",
+	"pattern": "NORMAL",
+	"x": 228,
+	"y": 216
+},
+{
+	"entity": "HEPTAGON",
+	"pattern": "NORMAL",
+	"x": 229,
+	"y": 269
+},
+{
+	"entity": "HEPTAGON",
+	"pattern": "NORMAL",
+	"x": 475.99994,
+	"y": 273
+},
+{
+	"entity": "HEPTAGON",
+	"pattern": "NORMAL",
+	"x": 475.99994,
+	"y": 328
+},
+{
+	"entity": "HEPTAGON",
+	"pattern": "NORMAL",
+	"x": 475.99994,
+	"y": 384
+}
+]

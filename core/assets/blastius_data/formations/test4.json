@@ -1,0 +1,14 @@
+[
+{
+	"entity": "STAR",
+	"pattern": "CW",
+	"x": 625.9999,
+	"y": 312
+},
+{
+	"entity": "STAR",
+	"pattern": "CCW",
+	"x": 193.99994,
+	"y": 314
+}
+]

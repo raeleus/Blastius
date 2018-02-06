@@ -1,0 +1,519 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font-export.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	button: {
+		r: 1
+		g: 0.6382223
+		b: 0
+		a: 1
+	}
+	checked: {
+		r: 1
+		g: 0
+		b: 0
+		a: 1
+	}
+	checked-over: {
+		r: 0.6499999
+		g: 0
+		b: 0
+		a: 1
+	}
+	entity: {
+		r: 0
+		g: 1
+		b: 0.15400004
+		a: 1
+	}
+	over: {
+		r: 0.7133333
+		g: 0.7133333
+		b: 0.7133333
+		a: 1
+	}
+	pattern: {
+		r: 0
+		g: 0.5296662
+		b: 1
+		a: 1
+	}
+	selection: {
+		r: 0
+		g: 0.88866687
+		b: 1
+		a: 1
+	}
+	stage-background: {
+		r: 0
+		g: 0
+		b: 0
+		a: 0.53333336
+	}
+	tinted: {
+		r: 0.35
+		g: 0.35
+		b: 0.35
+		a: 1
+	}
+	tool: {
+		r: 0.746778
+		g: 0
+		b: 1
+		a: 1
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	button-pressed: {
+		name: button
+		color: checked
+	}
+	over: {
+		name: button
+		color: over
+	}
+	checked-over: {
+		name: button
+		color: checked-over
+	}
+	icon-normal-over: {
+		name: icon-normal
+		color: over
+	}
+	icon-normal-pressed: {
+		name: icon-normal
+		color: checked
+	}
+	icon-normal-checked-over: {
+		name: icon-normal
+		color: checked-over
+	}
+	icon-left-checked-over: {
+		name: icon-left
+		color: checked-over
+	}
+	icon-left-over: {
+		name: icon-left
+		color: over
+	}
+	icon-left-checked: {
+		name: icon-left
+		color: checked
+	}
+	icon-right-checked-over: {
+		name: icon-right
+		color: checked-over
+	}
+	icon-right-over: {
+		name: icon-right
+		color: over
+	}
+	icon-right-checked: {
+		name: icon-right
+		color: checked
+	}
+	icon-ccw-checked-over: {
+		name: icon-ccw
+		color: checked-over
+	}
+	icon-ccw-over: {
+		name: icon-ccw
+		color: over
+	}
+	icon-ccw-checked: {
+		name: icon-ccw
+		color: checked
+	}
+	icon-cw-checked-over: {
+		name: icon-cw
+		color: checked-over
+	}
+	icon-cw-over: {
+		name: icon-cw
+		color: over
+	}
+	icon-cw-checked: {
+		name: icon-cw
+		color: checked
+	}
+	icon-spiral-ccw-checked-over: {
+		name: icon-spiral-ccw
+		color: checked-over
+	}
+	icon-spiral-ccw-over: {
+		name: icon-spiral-ccw
+		color: over
+	}
+	icon-spiral-ccw-checked: {
+		name: icon-spiral-ccw
+		color: checked
+	}
+	icon-spiral-cw-checked-over: {
+		name: icon-spiral-cw
+		color: checked-over
+	}
+	icon-spiral-cw-over: {
+		name: icon-spiral-cw
+		color: over
+	}
+	icon-spiral-cw-checked: {
+		name: icon-spiral-cw
+		color: checked
+	}
+	icon-diamond-ccw-checked-over: {
+		name: icon-diamond-ccw
+		color: checked-over
+	}
+	icon-diamond-ccw-over: {
+		name: icon-diamond-ccw
+		color: over
+	}
+	icon-diamond-ccw-checked: {
+		name: icon-diamond-ccw
+		color: checked
+	}
+	icon-diamond-cw-checked-over: {
+		name: icon-diamond-cw
+		color: checked-over
+	}
+	icon-diamond-cw-over: {
+		name: icon-diamond-cw
+		color: over
+	}
+	icon-diamond-cw-checked: {
+		name: icon-diamond-cw
+		color: checked
+	}
+	icon-dive-checked-over: {
+		name: icon-dive
+		color: checked-over
+	}
+	icon-dive-over: {
+		name: icon-dive
+		color: over
+	}
+	icon-dive-checked: {
+		name: icon-dive
+		color: checked
+	}
+	icon-wave-checked-over: {
+		name: icon-wave
+		color: checked-over
+	}
+	icon-wave-over: {
+		name: icon-wave
+		color: over
+	}
+	icon-wave-checked: {
+		name: icon-wave
+		color: checked
+	}
+	tools: {
+		name: button
+		color: tool
+	}
+	entities: {
+		name: button
+		color: entity
+	}
+	patterns: {
+		name: button
+		color: pattern
+	}
+	buttons: {
+		name: button
+		color: button
+	}
+	enemy-diamond-tinted: {
+		name: enemy-diamond
+		color: tinted
+	}
+	enemy-heptagon-tinted: {
+		name: enemy-heptagon
+		color: tinted
+	}
+	enemy-rectangle-tinted: {
+		name: enemy-rectangle
+		color: tinted
+	}
+	enemy-square-tinted: {
+		name: enemy-square
+		color: tinted
+	}
+	enemy-star-tinted: {
+		name: enemy-star
+		color: tinted
+	}
+	enemy-triangle-tinted: {
+		name: enemy-triangle
+		color: tinted
+	}
+	enemy-u-tinted: {
+		name: enemy-u
+		color: tinted
+	}
+	stage-background: {
+		name: white
+		color: stage-background
+	}
+	selection: {
+		name: white
+		color: selection
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		imageUp: icon-normal
+		imageOver: icon-normal-over
+		imageChecked: icon-normal-pressed
+		imageCheckedOver: icon-normal-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	left: {
+		imageUp: icon-left
+		imageOver: icon-left-over
+		imageChecked: icon-left-checked
+		imageCheckedOver: icon-left-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	right: {
+		imageUp: icon-right
+		imageOver: icon-right-over
+		imageChecked: icon-right-checked
+		imageCheckedOver: icon-right-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	ccw: {
+		imageUp: icon-ccw
+		imageOver: icon-ccw-over
+		imageChecked: icon-ccw-checked
+		imageCheckedOver: icon-ccw-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	cw: {
+		imageUp: icon-cw
+		imageOver: icon-cw-over
+		imageChecked: icon-cw-checked
+		imageCheckedOver: icon-cw-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	spiral-ccw: {
+		imageUp: icon-spiral-ccw
+		imageOver: icon-spiral-ccw-over
+		imageChecked: icon-spiral-ccw-checked
+		imageCheckedOver: icon-spiral-ccw-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	spiral-cw: {
+		imageUp: icon-spiral-cw
+		imageOver: icon-spiral-cw-over
+		imageChecked: icon-spiral-cw-checked
+		imageCheckedOver: icon-spiral-cw-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	diamond-ccw: {
+		imageUp: icon-diamond-ccw
+		imageOver: icon-diamond-ccw-over
+		imageChecked: icon-diamond-ccw-checked
+		imageCheckedOver: icon-diamond-ccw-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	diamond-cw: {
+		imageUp: icon-diamond-cw
+		imageOver: icon-diamond-cw-over
+		imageChecked: icon-diamond-cw-checked
+		imageCheckedOver: icon-diamond-cw-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	dive: {
+		imageUp: icon-dive
+		imageOver: icon-dive-over
+		imageChecked: icon-dive-checked
+		imageCheckedOver: icon-dive-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	wave: {
+		imageUp: icon-wave
+		imageOver: icon-wave-over
+		imageChecked: icon-wave-checked
+		imageCheckedOver: icon-wave-checked-over
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	diamond: {
+		imageUp: enemy-diamond-tinted
+		imageChecked: enemy-diamond
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	heptagon: {
+		imageUp: enemy-heptagon-tinted
+		imageChecked: enemy-heptagon
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	rectangle: {
+		imageUp: enemy-rectangle-tinted
+		imageChecked: enemy-rectangle
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	square: {
+		imageUp: enemy-square-tinted
+		imageChecked: enemy-square
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	star: {
+		imageUp: enemy-star-tinted
+		imageChecked: enemy-star
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	triangle: {
+		imageUp: enemy-triangle-tinted
+		imageChecked: enemy-triangle
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+	u: {
+		imageUp: enemy-u-tinted
+		imageChecked: enemy-u
+		up: button
+		down: checked-over
+		over: over
+		checked: button-pressed
+		checkedOver: checked-over
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
+	default: {
+		font: font
+		fontColorSelected: checked
+		fontColorUnselected: white
+		selection: selection
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {
+		hScroll: scroll-bg
+		hScrollKnob: scroll
+		vScroll: scroll-bg
+		vScrollKnob: scroll
+	}
+	list: {
+		background: list
+		hScroll: scroll-bg
+		hScrollKnob: scroll
+		vScroll: scroll-bg
+		vScrollKnob: scroll
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font
+		fontColor: white
+		downFontColor: checked
+		overFontColor: over
+		up: button
+		down: button-pressed
+		over: over
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: font
+		fontColor: white
+		background: button
+		cursor: white
+		selection: selection
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: window
+		titleFont: font
+		stageBackground: stage-background
+	}
+}
+}

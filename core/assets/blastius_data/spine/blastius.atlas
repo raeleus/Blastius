@@ -1,0 +1,118 @@
+
+blastius.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast
+  rotate: false
+  xy: 340, 401
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 221, 378
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+enemy-diamond
+  rotate: false
+  xy: 40, 296
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+enemy-heptagon
+  rotate: false
+  xy: 80, 372
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+enemy-rectangle
+  rotate: true
+  xy: 13, 271
+  size: 86, 25
+  orig: 86, 25
+  offset: 0, 0
+  index: -1
+enemy-square
+  rotate: false
+  xy: 264, 380
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+enemy-star
+  rotate: false
+  xy: 130, 376
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+enemy-triangle
+  rotate: false
+  xy: 305, 389
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+enemy-u
+  rotate: false
+  xy: 176, 376
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 360, 405
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 13, 359
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+power-p
+  rotate: false
+  xy: 13, 229
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+power-up-bottom
+  rotate: false
+  xy: 40, 274
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+power-up-top
+  rotate: false
+  xy: 13, 248
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tracer-blue
+  rotate: false
+  xy: 1, 1
+  size: 4, 418
+  orig: 4, 418
+  offset: 0, 0
+  index: -1
+tracer-red
+  rotate: false
+  xy: 7, 1
+  size: 4, 418
+  orig: 4, 418
+  offset: 0, 0
+  index: -1

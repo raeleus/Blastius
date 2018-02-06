@@ -1,0 +1,86 @@
+[
+{
+	"entity": "SQUARE",
+	"pattern": "DIAMOND_CCW",
+	"x": 132,
+	"y": 84
+},
+{
+	"entity": "SQUARE",
+	"pattern": "DIAMOND_CW",
+	"x": 189.99994,
+	"y": 138
+},
+{
+	"entity": "SQUARE",
+	"pattern": "DIAMOND_CCW",
+	"x": 251,
+	"y": 201
+},
+{
+	"entity": "SQUARE",
+	"pattern": "DIAMOND_CW",
+	"x": 308,
+	"y": 262
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 741,
+	"y": 65
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 705,
+	"y": 118
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 665,
+	"y": 176
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 737.9999,
+	"y": 156
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 767.9999,
+	"y": 195
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 630.9999,
+	"y": 224
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 53.99997,
+	"y": 314
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 105.99997,
+	"y": 315
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 159,
+	"y": 316
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 208.99994,
+	"y": 315
+}
+]

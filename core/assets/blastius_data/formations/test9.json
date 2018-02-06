@@ -1,0 +1,170 @@
+[
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 277,
+	"y": 133
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 315.99994,
+	"y": 133
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 297,
+	"y": 91
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 297,
+	"y": 173
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 468,
+	"y": 209
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 468.99994,
+	"y": 143
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 490.99994,
+	"y": 177
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 447.99994,
+	"y": 176
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 620,
+	"y": 282
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 618.9999,
+	"y": 223
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 645,
+	"y": 253
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 593.99994,
+	"y": 252
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 722.9999,
+	"y": 404
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 704,
+	"y": 369
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 722.9999,
+	"y": 334
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 741,
+	"y": 370
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 129.99994,
+	"y": 288
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 151,
+	"y": 251
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 173,
+	"y": 285
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 151.99994,
+	"y": 332
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 424.99994,
+	"y": 483
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 423.99994,
+	"y": 420
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 445.99994,
+	"y": 452
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 402.99994,
+	"y": 454
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 270,
+	"y": 442
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 268.99994,
+	"y": 375
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 300,
+	"y": 407
+},
+{
+	"entity": "DIAMOND",
+	"pattern": "NORMAL",
+	"x": 248.99994,
+	"y": 407
+}
+]
